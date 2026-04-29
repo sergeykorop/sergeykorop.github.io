@@ -7,6 +7,7 @@ This site presents a collection of my writings, all in one place.
 ## Articles
 
 ## Notes
+  * [Pitfall of `sizeof()` or How Wide is Your Byte?](notes/sizeof_unit/) \[2026-04-29\]
 
 ## Translations
 

@@ -1,0 +1,7 @@
+title: "Woozle's Trace"
+description: "Sergey Korop's home page"
+
+# Visual appearance with no theme looks the best for me
+# theme: jekyll-theme-minimalist
+
+permalink: /:path/:basename/

@@ -1,3 +1,5 @@
+# Sergey Korop
+
 I'm a software developer in lifelong pursuit of the Right Thing
 either in programming or in math and computer science or, sometimes,
 in writing.

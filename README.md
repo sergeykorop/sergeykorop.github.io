@@ -7,6 +7,7 @@ in writing.
 This site presents a collection of my writings, all in one place.
 
 ## Articles
+  * [Coding Interview with Fibonacci Numbers: Down the Rabbit Hole](fib_interview/) \[2023-12-27\]
 
 ## Notes
   * [Pitfall of `sizeof()` or How Wide is Your Byte?](notes/sizeof_unit/) \[2026-04-29\]

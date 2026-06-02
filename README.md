@@ -9,6 +9,8 @@ This site presents a collection of my writings, all in one place.
 ## Articles
   * [Coding Interview with Fibonacci Numbers: Down the Rabbit Hole](fib_interview/) \[2023-12-27\]
 
+  * [`System.Random` and Infinite Monkey Theorem](https://sergeykorop.github.io/monkey_typewriter/) \[2018-04-13\]
+
 ## Notes
   * [Pitfall of `sizeof()` or How Wide is Your Byte?](notes/sizeof_unit/) \[2026-04-29\]
 

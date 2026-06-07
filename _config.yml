@@ -1,6 +1,9 @@
 title: "Woozle's Trace"
 description: "Notes and articles on software development."
 
+plugins:
+  - jekyll-redirect-from
+
 # Visual appearance with no theme looks the best for me
 # theme: jekyll-theme-minimalist
 

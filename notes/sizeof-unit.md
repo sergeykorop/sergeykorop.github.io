@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - "/notes/sizeof_unit/"
+---
 # Pitfall of `sizeof()` or How Wide is Your Byte?
 
 Published: 2026-04-29.

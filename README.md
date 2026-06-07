@@ -9,6 +9,10 @@ This site presents a collection of my writings, all in one place.
 ## Articles
   * [Coding Interview with Fibonacci Numbers: Down the Rabbit Hole](fib_interview/) \[2023-12-27\]
 
+  * [XorShift Jump 101, Part 2: Polynomial Arithmetic](xorshift-jump/polynomial-arithmetic/) \[2020-04-20\]
+
+  * [XorShift Jump 101, Part 1: Matrix Multiplication](xorshift-jump/matrix-multiplication/) \[2020-04-12\]
+
   * [`System.Random` and Infinite Monkey Theorem](https://sergeykorop.github.io/monkey_typewriter/) \[2018-04-13\]
 
 ## Notes
